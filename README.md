@@ -1425,6 +1425,8 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+- [vue-native-dialog](https://github.com/algoz098/vue-native-dialog) - A wrapper arround browser is <dialog> tag 
+
 
 #### Parallax
 
